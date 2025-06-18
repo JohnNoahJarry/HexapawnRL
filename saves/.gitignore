@@ -1,0 +1,7 @@
+# As git does not track empty folders, this file exists to allow git to detect the "saves" folder as it is empty by default.
+
+# This line tells git to ignore all files in this folder.
+/*
+
+# This line makes this file an exception.
+!/.gitignore

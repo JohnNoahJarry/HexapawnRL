@@ -1,0 +1,6 @@
+# ANSI Color Escape Sequences.
+TERMINAL_FG_BLUE    = "\033[94m"
+TERMINAL_FG_RED     = "\033[91m"
+TERMINAL_FG_YELLOW  = "\033[93m"
+TERMINAL_FGBG_BLACK = "\033[30;40m"
+TERMINAL_RESET      = "\033[0m"
