@@ -1,6 +1,6 @@
 # HexapawnRL
 
-HexapawnRL (Hexapawn Reinforcement Learning) is a terminal-based program that allows you to play Hexapawn with AIs that learn through reinforcement learning.
+HexapawnRL (Hexapawn Reinforcement Learning) is a terminal program that allows you to play Hexapawn with AIs that learn through reinforcement learning.
 The program is built using Python's default libraries; no further libraries are required. All AI data is saved as a JSON file using Python's built-in `json` library in the `saves` folder.
 
 ## System Requirements
